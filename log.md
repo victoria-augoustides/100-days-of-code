@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 9, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Registered on freeCodeCamp, started reviewing HTML with the Introduction to Basic HTML and HTML5, 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** My first goal with this challenge is to make my blog more personalized and to stop using Wordpress themes. I am a little overwhelmed and tired because I got 5 hours of sleep but I'm chugging through it. While coding, I am watching a dungeons and dragons tutorial.. Does this make me a nerd? 
+
+**Link to work:** [Challenges completed today](https://www.freecodecamp.org/riactivity)
 
 
